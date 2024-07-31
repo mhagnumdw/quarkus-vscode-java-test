@@ -1,6 +1,6 @@
 # quarkus-vscode-java-test
 
-Project to demonstrate that the coverage of tests annotated with `@QuarkusTest` (`GreetingResourceTest.java`) is not displayed in vscode, but the coverage of the other tests (`CollectionUtilsTest.java`) is displayed.
+Project to demonstrate that the coverage of tests annotated with `@QuarkusTest` (`GreetingResourceTest.java`) is not displayed in vscode, but the coverage of the other tests (`CollectionUtilsTest.java`) is displayed. On the maven command line the coverage is ok.
 
 Test coverage:
 
